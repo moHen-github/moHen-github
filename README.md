@@ -4,3 +4,5 @@
     <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1304491179127255&hide_border=true" alt="GZX墨痕的掘金数据" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
+
+![moHen-github's github activity graph](https://raw.githubusercontent.com/moHen-github/moHen-github/output/github-contribution-grid-snake.svg)
